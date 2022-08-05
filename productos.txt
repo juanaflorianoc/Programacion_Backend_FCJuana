@@ -1,0 +1,17 @@
+[
+    {
+        title: 'Maceta TALUK',
+        price: '600',
+        thumbnail: 'https://i.ibb.co/njMg16p/taluk.jpg',
+    }, 
+    {
+        title: 'Maceta TAIPEI',
+        price: '600',
+        thumbnail: 'https://i.ibb.co/njMg16p/taluk.jpg',
+    }, 
+    {
+        title: 'Maceta OSAKA',
+        price: '600',
+        thumbnail: 'https://i.ibb.co/njMg16p/taluk.jpg',
+    }
+]
